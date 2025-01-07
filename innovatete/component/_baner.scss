@@ -1,0 +1,49 @@
+.baner{  
+    background:url(../picture/topbaner.png) no-repeat center;
+    background-size: cover;
+    height:960px; 
+    
+    .overlay{
+        height: 100%;
+        width: 100%;
+        background-color: rgb(107, 98, 197,80%); 
+        h1{
+            padding-top: 254px;
+            max-width: 962px;
+            font-size: 84px;
+            color: $white;
+            text-align: center;
+            margin: 0 auto;
+            line-height: 100%;
+            position: relative;
+            .sape1{
+            position: absolute;
+            left: -433px; 
+         } 
+        }
+
+       
+        p{
+            font-family: "Paprika", serif;
+            font-size: 24px ;
+            font-weight: 400;
+            max-width:715px;   
+            color: $softviolet;
+            margin: 0 auto;
+            margin-top:20px;
+        }
+
+        button{
+            .sape2{
+                 
+            margin-top: 153px;
+            position: absolute; 
+            margin-left: 494px;
+         
+            }
+            margin-top:16px; 
+            @include button() 
+        }
+    }
+     
+}

@@ -1,0 +1,103 @@
+#about{
+    background-color: #FDFDFD;
+    .element{ 
+            max-width: 1899px; 
+            margin: 0 auto; 
+    }
+     .row{  
+        padding-bottom:91px;
+        margin-top: -222px;
+         .item{   
+            display: flex;  
+            transition: 0.4s;
+            border-radius: 12px;  
+            max-width: 568px; 
+            line-height: 30px;
+            &:hover{
+                -webkit-box-shadow: 10px 30px 60px 0px rgba(162,169,192,0.31);
+                -moz-box-shadow: 10px 30px 60px 0px rgba(162,169,192,0.31);
+                box-shadow: 10px 30px 60px 0px rgba(162,169,192,0.31); 
+                // transform: scale(0.9);
+                padding:42px 28px;
+                max-width: 568px;
+            }
+          }
+            p{
+                font-size: 18px;
+                font-family: "Paprika", serif;
+                font-weight:400;
+                color:$duskyviolet;
+                line-height:30px;
+                max-width:319px;
+                margin-left: 37px;   
+                span{
+                    p{
+                        font-size: 18px;
+                        font-family: "Paprika", serif;
+                        font-weight:400;
+                        color:$duskyviolet;
+                        line-height:30px;
+                        max-width:366px;
+                        margin-left: 37px;  
+                    } 
+                }
+            } 
+             
+        .curcel{
+                display: flex; 
+                margin-left: 28px;
+        .curcel1{
+                height: 25px;
+                width: 25px;
+                background-color:$Green;
+                border-radius: 100%;
+            }
+        .curcel2{
+                height: 25px;
+                width: 25px;
+                background-color:$softpurple;
+                border-radius: 100%;
+                 margin-left: -15px;
+            }
+                }  
+                .item2{   
+                    margin-left: 100px;
+                    h2{ 
+                        color:$black;
+                        font-size: 48px;
+                    }
+                    h5{
+                        font-family: "Paprika", serif;
+                        color:$duskyviolet;
+                        font-size:18px;
+                        font-weight:400;
+                        max-width:393px;
+                        line-height: 30px;
+                        margin-top: 9px;
+                        margin-bottom: 41px;
+                    }
+                    button{  
+                        border: none;
+                        background-color: transparent;
+                     a{
+                        background-color: $Green;
+                        color: $white;
+                        border: none;
+                        text-decoration: none;
+                        padding: 14px 28px;
+                        font-size: 18px;
+                        border-radius: 100px;
+                        font-weight: 600; 
+                        border: 2px solid $Green;
+                        &:hover{
+                            background-color: $softpurple; 
+                            color: $black;
+                            transition: 0.4s;
+                        }
+                     }
+                    }
+                }
+         } 
+    }
+   
+ 

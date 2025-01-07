@@ -1,0 +1,48 @@
+.container{
+    max-width: 1170px;
+} 
+body{
+    font-family: "Open Sans", serif; 
+}
+
+// font-family: "Paprika", serif;
+// font-family: "Quicksand", serif;
+// font-family: "Nunito", serif;
+
+
+$white:#FFFFFF;  
+$Offwhite:#F3F3F4;  
+$white1:#FAFAFE;
+$white2:#F9F9F9; 
+$Green:#1BBF00;  
+$violet:#6B62C5;  
+$lightviolet:#E6E5F3;
+$softviolet:#E6E5F3;   
+$black:#141135;  
+$lightblack:#4F585F;  
+$softpurple:#CBC8F0;   
+$duskyviolet:#726E9E;  
+$gray:#6C7D93;    
+$navcolor:#160C6D;
+
+
+@mixin button(){ 
+    background-color: transparent; 
+    border: none;
+    a{
+        background-color: $Green;
+        color: $white;
+        border: none;
+        text-decoration: none;
+        padding: 14px 28px;
+        font-size: 18px;
+        border-radius: 100px;
+        font-weight: 600; 
+        border: 2px solid $Green;
+        &:hover{
+            background-color:transparent;
+            transition: 0.4s; 
+            border: 2px solid $Green; 
+        }
+    }
+}

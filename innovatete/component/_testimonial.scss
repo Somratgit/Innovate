@@ -1,0 +1,76 @@
+#testimonial{
+    padding-bottom: 100px;
+    background-color: #F8F8FF; 
+    text-align: center;
+    h1{ 
+    padding: 100px 0 79px 0;
+    color: $black;
+    font-size:48px;
+    font-weight:700;  
+    }
+.menu{
+    background-color: #ffffff;
+    max-width: 1180px; 
+    text-align: center;
+    position: relative;
+    border-radius: 20px;  
+    margin-top: 91px;
+    
+.logo{
+    position:relative; 
+    transform: translatey(-50%); 
+    color: #abafc74d; 
+    position: absolute;
+    top: 33px;
+    left:436px;
+   
+}
+.star{
+    padding-top: 119px;
+}
+p{
+    font-size: 24px;
+    max-width:800px;
+    font-family: "Paprika", serif;
+    font-weight:400;
+    line-height: 40px;
+    color:$duskyviolet;
+    margin: 0 auto; 
+    padding-top: 33px;
+    padding-bottom: 48px;
+}
+h2{
+    font-size:25px;
+    font-weight: 700;
+    color: $black; 
+    padding-bottom:4px;
+}
+h6{
+    font-size: 16px;
+    font-family: "Paprika", serif;
+    font-weight: 400;
+    color: $duskyviolet;
+    padding-bottom:56px;
+    line-height: 25px; 
+}
+      
+    }
+    .left-icon{
+        background-color:$Green;
+        height: 64px;
+        width: 64px;
+        border-radius: 50%;
+        margin-top: 280px;
+        margin-left: -200px; 
+    }
+    .right-icon{
+        background-color:$Green;
+        height: 64px;
+        width: 64px;
+        position: absolute;
+        border-radius: 50%;
+        top: 280px;
+        right: -200px;  
+    }
+     }
+ 

@@ -1,0 +1,39 @@
+ #countpart{
+    background-color: #F9F9FB;
+    
+   .element{
+    text-align: end; 
+    max-width: 1899px;
+    margin: 0 auto;
+   }
+    
+ .row{
+    margin-top:-128px;
+    padding-bottom: 282px;
+    .item{
+        display: flex;
+        span{
+            height: 132px;
+            width: 2px;
+            background-color:$lightblack;
+            opacity: 20%;
+            display: inline-block;
+            margin-left: 30px;
+        }
+     .text{
+        h1{
+            font-size: 84px;
+            font-weight: 800; 
+            color: $Green;
+            line-height: 68px;
+        }
+        h2{
+            font-size: 30px;
+            font-weight:700;
+            color: $black;
+            line-height:40px;
+        }
+     }
+       }
+ }
+ }

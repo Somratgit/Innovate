@@ -1,0 +1,307 @@
+ @media (min-width:320px) and (max-width:767px) {
+
+    .togler-btn{
+      background-color: white;
+    }
+    header button a { 
+      padding: 10px 24px;
+      font-size: 13px;  
+  }
+  header button { 
+    margin-top: 30px;
+    margin-left: 140px;
+}
+header img, svg {
+  vertical-align: middle;
+  width: 23%;
+}
+  .baner .overlay button .sape2 { 
+    display: none;
+}
+.baner .overlay h1 {
+  padding-top: 215px;
+  font-size: 33px;
+}
+.baner .overlay p { 
+  font-size: 16px; 
+  margin-top: 35px;
+}
+.baner .overlay h1 .sape1 {
+  margin-top: -60px; 
+  left: 0;
+}
+.baner .overlay button {
+  margin-top: 55px; 
+}
+#countpart .element img, svg {
+  vertical-align: middle;
+  width: 40%;
+}
+#countpart .row .item .text h1 {
+  font-size: 36px;
+  font-weight: 800;
+  color: #1BBF00;
+  line-height: 68px;
+}
+#countpart .row .item .text h2 {
+  font-size: 20px;
+  font-weight: 700;
+  color: #141135;
+  line-height: 23px;
+}
+#countpart .row .item span { 
+  display: none;
+}
+#countpart .row {
+  margin-top: -128px;
+  padding-bottom: 35px;
+}
+#about .element img, svg { 
+  width: 50%;
+}
+
+#about .row { 
+  margin-top: -100px;
+}
+#about .row p {
+  font-size: 14px; 
+  margin-left: 17px;
+}
+#about .row .item:hover { 
+  padding:0; 
+}
+.baner { 
+  height: 796px;
+}
+   
+#about .row .item2 {
+  margin-left: 0px;
+  margin-top: 42px;
+}
+#about .row .item2 h2 { 
+  font-size: 35px;
+}
+#about .row .item2 h5 { 
+  font-size: 14px;  
+  margin-top: 18px;
+  margin-bottom: 47px;
+}
+#about .row .item2 button a { 
+  padding: 10px 24px;
+  font-size: 16px; 
+  margin-left: -10px;
+}
+.course .row .menu h1 {
+  font-size: 34px; 
+}
+.course .row {
+  padding: 54px 0;
+}
+.course .row .menu p {
+  font-size: 15px;  
+  padding-bottom: 30px; 
+}
+.course .row .menu button a {
+  margin-left: -10px; 
+  padding: 10px 24px;
+  font-size: 16px; 
+}
+.course .row .menu button { 
+  margin-bottom: 31px;
+}
+.course .row .item .main-item h1 {
+  font-size: 26px; 
+  font-weight: 600; 
+  padding-top: 26px;
+}
+.course .row .item .main-item p { 
+  font-size: 14px; 
+  padding-top: 10px;
+}
+.create-part .top h1 {
+  font-size: 24px;
+  font-weight: 600; 
+  text-align: start;
+  margin-top: 35px;
+}
+.create-part .top p {
+  font-size: 14px; 
+  text-align:start; 
+  text-align: start; 
+  margin-top: 0px;
+}
+.create-part .row {
+  margin-top: 158px;
+  align-items: start;
+  margin-left: -11px;
+}
+.create-part .row .item .text {
+  margin-left: 0px; 
+}
+element.style {
+  margin-top: 29px;
+}
+.create-part .left-imgs img, svg {
+  vertical-align: middle;
+  width: 77%;
+  margin-left: 33px;
+}
+ 
+.create-part .vector-img { 
+  margin-top: -86px; 
+}
+.create-part .vector-img img, svg {
+  vertical-align: middle;
+  width: 20%;
+}
+#course-plan .top-text {
+  font-size: 19px; 
+  padding: 14px 0 4px 0;
+}
+#course-plan .row .item h2 {
+  font-size: 28px; 
+  padding: 26px 0px 26px 0;
+}
+#course-plan .row .item img, svg {
+  vertical-align: middle;
+  width: 100%;
+}
+#course-plan .row .item .text h1 { 
+  font-size: 34px; 
+  line-height:20px;
+  margin-left:0;
+}
+#course-plan .row .item .text {
+  align-items: center;
+  margin-left: 109px;
+  margin-top: 23px;
+}
+#course-plan .row .item p {
+  font-size: 14px; 
+  line-height: 20px; 
+  margin-top: 12px;
+  padding-bottom: 59px; 
+}
+#course-plan .row>* { 
+  margin-top: 20px;
+}
+
+#course-plan .row {
+  padding-bottom: 31px;
+}
+#testimonial h1 {
+  padding: 23px 0 3px 0; 
+  font-size: 20px; 
+}
+#testimonial .menu .logo { 
+  left:0;
+}
+#testimonial .menu p {
+  font-size: 14px; 
+  line-height: 26px; 
+  padding-top: 17px;
+  padding-bottom: 23px;
+}
+#testimonial .right-icon { 
+  height: 6%; 
+  position: absolute;
+  border-radius: 50%;
+  top:357px;
+  right:0;
+  width: 10%;
+}
+#testimonial .left-icon {
+  height: 6%; 
+  margin-top: 356px;
+  margin-left:0;
+  width: 9%;
+}
+#testimonial {
+  padding-bottom: 0px; 
+}
+.lastbaner {
+  padding-top: 21px;
+}
+.lastbaner .d-flex {
+  display: inline-block !important; 
+}
+.lastbaner .full-part .top h1 {
+  font-size: 25px; 
+  margin-bottom: 19px;
+}
+.lastbaner .full-part img, svg {
+  vertical-align: middle;
+  width: 100%;
+}
+.lastbaner .full-part .content .leftside {
+  padding-left:0;
+}
+.lastbaner .full-part .content .leftside .aboutpart ul { 
+  margin-left: -31px;
+}
+.lastbaner .full-part .content .leftside .aboutpart ul li a {
+  color: #000000;
+  font-size: 20px; 
+}
+.lastbaner .full-part .content .leftside h1 { 
+  font-size: 18px; 
+  line-height: 24px; 
+  margin-top: 19px;
+}
+.lastbaner .full-part .content .leftside .readmore {
+  margin-top: 29px;
+  padding-bottom:0;
+}
+.lastbaner .vector { 
+  margin-top: 0px;
+}
+.lastbaner .vector img, svg {
+  vertical-align: middle;
+  width: 30%;
+}
+#fotterpart {
+  padding-top: 19px; 
+}
+#fotterpart .row .left-item p {
+  font-size: 14px; 
+  margin-top: 17px; 
+  line-height: 156%;
+}
+#fotterpart .row .right-item1 h3 a {
+  font-size: 18px; 
+}
+dl, ol, ul { 
+  margin-left: -29px;
+}
+#fotterpart .row .right-item1 ul li a {
+  font-size: 14px; 
+  margin-left:0;
+}
+#fotterpart .row2 .item .link {
+  padding-top: 16px;
+}
+#fotterpart .row2 { 
+  display:inline-block;
+}
+#fotterpart .row2 .item .link a { 
+  font-size: 15px; 
+}
+.create-part .row .item .text h1 {
+  font-size: 23px; 
+  line-height: 29px; 
+}
+.create-part .row .item .text { 
+  margin-top: 3px;
+  margin-left: 13px;
+}
+
+
+
+
+
+
+
+
+
+
+ }

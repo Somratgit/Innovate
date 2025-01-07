@@ -1,0 +1,58 @@
+.create-part{
+    .top{ 
+        h1{
+            font-size: 48px;
+            font-weight: 700;
+            color: $black;
+            text-align: center;
+            margin-top: 91px;
+        }
+        p{
+            font-size: 18px;
+            font-weight:400;
+            font-family: "Paprika", serif;
+            color: $duskyviolet;
+            text-align: center;
+            max-width: 558px;
+            text-align: center;
+            margin: 0 auto;  
+            margin-top: 23px;
+        }
+    }
+    .row{
+        margin-top: 75px;
+        align-items: center;
+        .item{
+            display: flex;  
+            margin-top: -114px;
+             .text{
+                margin-left: 35px; 
+                margin-top: -12px;
+                h1{ 
+                    font-size: 30px;
+                    font-weight: 700;
+                    line-height: 36px;
+                    color: $black;
+                }
+                p{ 
+                    font-size: 18px;
+                    font-weight:400;
+                    font-family: "Paprika", serif;
+                    line-height: 30px;
+                    color:$duskyviolet;
+                    max-width: 343px;
+                }
+             }
+        }
+    }
+    .left-imgs{
+        margin-left:-40PX;
+    }
+    .vector-img{
+        text-align: end;
+        max-width: 1899px;
+        margin: 0 auto;
+        margin-top: -429px;
+    }
+
+}
